@@ -13,11 +13,11 @@ As we build this dashboard, individual pages were created for each plot and a wa
 
 ### Website Requirements
 
-For reference, review the following ["Screenshots" section](#screenshots). 
+Website can be found [here](https://vedranagatech.github.io/Web-Design-Challenge/index.html)
 
 The website must consist of seven pages in total, including:
 
-* A [landing page](#landing-page) containing the following elements:
+* A [#landing-page](https://vedranagatech.github.io/Web-Design-Challenge/index.html) containing the following elements:
 
   * An explanation of the project
 
@@ -26,7 +26,7 @@ The website must consist of seven pages in total, including:
   Page#1/7 
     ![LanidinImage](assets/images/Landing.png)
 
-* Four [visualization pages](#visualization-pages), stored in the `visualizations` folder, each with the following elements:
+* Four [visualization pages](https://vedranagatech.github.io/Web-Design-Challenge/visualizations/wind.html), stored in the `visualizations` folder, each with the following elements:
 
   * A descriptive title and heading tag.
 
@@ -38,7 +38,7 @@ The website must consist of seven pages in total, including:
     ![TempImage](assets/images/temp.png)
 
 
-* A ["Comparisons" page](#comparisons-page) that does the following:
+* A ["Comparisons" page](https://vedranagatech.github.io/Web-Design-Challenge/comparison.html) that does the following:
 
   * Contains all of the visualizations on the same page so they can easily be compared with each other.
 
@@ -49,7 +49,7 @@ The website must consist of seven pages in total, including:
   Sample:
       ![compImage](assets/images/cmp.png)
 
-* A ["Data" page](#data-page) that displays a responsive table containing the data used in the visualizations.
+* A ["Data" page](https://vedranagatech.github.io/Web-Design-Challenge/data.html) that displays a responsive table containing the data used in the visualizations.
 
   * The table must be a Bootstrap table component.
   * The data must come from exporting the `.csv` file as HTML or by converting it to HTML. .
@@ -62,12 +62,14 @@ At the top of every page, the website must have a navigation menu with the follo
 * It should have the name of the site on the left of the navigation bar, allowing users to return to the landing page from any page.
 * It should contain a dropdown menu on the right of the navigation bar, named "Plots," to provide links to each individual visualization page.
 * It should provide two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-* It should be responsive (using media queries). The navigation bar must be similar to the screenshots in the ["Navigation Menu" section](#navigation-menu) (notice the background color change).
+* It should be responsive (using media queries). 
 
-Finally, the website must be deployed to GitHub Pages.
 
     Sample:
   ![menuImage](assets/images/menu.png)
+  
+Finally, the website must be deployed to GitHub Pages.
+
 
 ## References
 
