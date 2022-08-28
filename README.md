@@ -26,7 +26,7 @@ The website must consist of seven pages in total, including:
   Page#1/7 
     ![LanidinImage](assets/images/Landing.png)
 
-* Four [visualization pages](https://vedranagatech.github.io/Web-Design-Challenge/visualization/temp.html), stored in the `visualizations` folder, each with the following elements:
+* Four [visualization pages](https://vedranagatech.github.io/Web-Design-Challenge/visualizations/wind.html), stored in the `visualizations` folder, each with the following elements:
 
   * A descriptive title and heading tag.
 
