@@ -1,9 +1,8 @@
-# Unit 11 Homework: Web Visualization Dashboard 
+# Module 11 Challenge : Web Design Challenge 
 
 ## Background
 
-Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
-
+Data becomes more powerful when you share it with others! That’s because people can use  data only if they can access it. So, we’ll use HTML and CSS to create a dashboard featuring the Latitude vs. X analysis of weather.
 
 ## Instructions 
 
@@ -35,6 +34,10 @@ The website must consist of seven pages in total, including:
   * A paragraph describing the plot and its significance.
 
   Sample:
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 610421993e7e46d3ac80982dea75a9ec3c14a278
     ![TempImage](/assets/images/temp.png)
 
 
@@ -47,6 +50,10 @@ The website must consist of seven pages in total, including:
     * The grid must be two visualizations across medium and large screens, and it must be one visualization across on extra-small or small screens.
 
   Sample:
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 610421993e7e46d3ac80982dea75a9ec3c14a278
       ![compImage](/assets/images/cmp.png)
 
 * A ["Data" page](https://vedranagatech.github.io/Web-Design-Challenge/data.html) that displays a responsive table containing the data used in the visualizations.
@@ -55,6 +62,10 @@ The website must consist of seven pages in total, including:
   * The data must come from exporting the `.csv` file as HTML or by converting it to HTML. .
 
     Sample:
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 610421993e7e46d3ac80982dea75a9ec3c14a278
       ![dataImage](/assets/images/data.png)
 
 At the top of every page, the website must have a navigation menu with the following elements:
@@ -66,6 +77,10 @@ At the top of every page, the website must have a navigation menu with the follo
 
 
     Sample:
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 610421993e7e46d3ac80982dea75a9ec3c14a278
   ![menuImage](/assets/images/menu.png)
   
 Finally, the website must be deployed to GitHub Pages.
