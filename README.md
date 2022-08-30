@@ -24,6 +24,8 @@ The website must consist of seven pages in total, including:
 
 Sample:
 
+![landingpage](/assets/images/Landing.png)
+
 
 * Four [visualization pages](https://vedranagatech.github.io/Web-Design-Challenge/visualizations/wind.html), stored in the `visualizations` folder, each with the following elements:
 
@@ -34,6 +36,7 @@ Sample:
   * A paragraph describing the plot and its significance.
 
   Sample:
+
   ![ctemppage](/assets/images/temp.png)
 
 * A ["Comparisons" page](https://vedranagatech.github.io/Web-Design-Challenge/comparison.html) that does the following:
@@ -45,6 +48,7 @@ Sample:
     * The grid must be two visualizations across medium and large screens, and it must be one visualization across on extra-small or small screens.
 
   Sample:
+
   ![comppage](/assets/images/cmp.png)
 
 
@@ -54,6 +58,7 @@ Sample:
   * The data must come from exporting the `.csv` file as HTML or by converting it to HTML. .
 
     Sample:
+    
     ![data](/assets/images/data.png)
 
 
