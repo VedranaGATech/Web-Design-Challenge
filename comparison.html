@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Weather Data Comparison</title>
+    <title>Weather Data Comparisons</title>
 
     <!-- Boostrap Stylesheet -->
     <link rel="stylesheet" href="css/bootstrap.min.css" media="screen">
@@ -52,50 +52,44 @@
             </ul>
           </div><!-- /.navbar-collapse -->
         </div>
-      </div><!-- /.container-fluid -->
+      </div><!-- /.container -->
     </nav>
     <!-- End of navbar -->
 
     <!-- Start of container -->
-    <div class="container">
-      <div class="row ">
-          <div class="box description-content col-md-8">
-              <h3 class="comparison-header">COMPARISON: LATITUDE VS. X</h3>
-              <hr>
-              <p >Click any plot to get an in-depth analysis</p>
-              <div class="container">
-                  <div class="row">
-                      <div class="col-md-6">
-                          <div class="title">vs. Max Temperature</div>
-                          <a href="./visualizations/temp.html">
-                              <img class="imageNav-photo" :hover src="./assets/images/Fig1.png" alt="Max Temperature Graph">
-                          </a>
-                      </div>
-                      <div class="col-md-6">
-                          <div class="title">vs. Humidity</div>
-                          <a href="./visualizations/humidity.html">
-                              <img class="imageNav-photo" :hover src="./assets/images/Fig2.png" alt="Humidity Graph">
-                          </a>
-                      </div>
+    <div class="container description-content">
+      <div class="row">   
+          <div class="col-md-12">
+                <h2 class="card-header text-info">Comparisons: Latitude vs. X</h2>
+                  <hr>
+                  <p class="description-text">Click any plot to get an in-depth analysis</p>
+                  <br>
+                  <div class = "col-md-6">
+                    <p><h5 class="comparison-header">vs. Max Temperature</h5></p>
+                    <a href="../visualizations/temp.html" >
+                      <img id="imageNav-area" class="images-fluid":hover src="./assets/images/Fig1.png" alt="Latitude vs. Max Temperature"></a>
                   </div>
-                  <div class="row">
-                      <div class="col-md-6">
-                          <div class="title">vs. Cloudiness</div>
-                          <a href="./visualizations/cloudiness.html">
-                              <img class="imageNav-photo" :hover src="./assets/images/Fig3.png" alt="Cloudiness Graph">
-                          </a>
-                      </div>
-                      <div class="col-md-6">
-                          <div class="title">vs. Wind Speed</div>
-                          <a href="./visualizations/wind.html">
-                              <img class="imageNav-photo" :hover src="./assets/images/Fig4.png" alt="Wind Speed Graph">
-                          </a>
-                      </div>
+                  <div class = "col-md-6">
+                    <p><h5 class = comparison-header>vs. Humidity</h5></p>
+                      <a href="../visualizations/humidity.html">
+                        <img id="imageNav-area" class="images-fluid":hover src="./assets/images/Fig2.png"  alt="Latitude vs. Humidity"></a>
                   </div>
-              </div>
-          </div>
-      </div>
-  </div>
+                  <div class = "col-md-6">
+                    <p><h5 class = comparison-header>vs. Cloudiness</h5></p>  
+                      <a href="../visualizations/cloudiness.html">
+                        <img id="imageNav-area" class="images-fluid":hover  src="./assets/images/Fig3.png"  alt="Latitude vs. Cloudiness"></a>
+                  </div>
+                  <div class = "col-md-6">
+                    <p><h5 class= comparison-header>vs. Wind Speed</h5></p>  
+                      <a href="../visualizations/wind.html">
+                        <img id="imageNav-area" class="images-fluid":hover src="./assets/images/Fig4.png" alt="Latitude vs. Wind Speed"></a>
+                  </div>
+            </div>
+        </div>
+    </div>
+    
+
+
     
     <!-- End of container -->
 
