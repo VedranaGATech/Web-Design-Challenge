@@ -17,7 +17,7 @@ Website can be found [here](https://vedranagatech.github.io/Web-Design-Challenge
 
 The website must consist of seven pages in total, including:
 
-* A [#landing-page](https://vedranagatech.github.io/Web-Design-Challenge/index.html) containing the following elements:
+* A [landing-page](https://vedranagatech.github.io/Web-Design-Challenge/index.html) containing the following elements:
 
   * An explanation of the project
 
