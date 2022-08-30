@@ -23,7 +23,7 @@ The website must consist of seven pages in total, including:
   * Links to each visualizations page. There should be a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
 
 Sample:
-![landingpage](/assets/images/Landing.png)
+
 
 * Four [visualization pages](https://vedranagatech.github.io/Web-Design-Challenge/visualizations/wind.html), stored in the `visualizations` folder, each with the following elements:
 
