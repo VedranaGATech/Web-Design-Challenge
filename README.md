@@ -1,9 +1,8 @@
-# Unit 11 Homework: Web Visualization Dashboard 
+# Module 11 Challenge : Web Design Challenge 
 
 ## Background
 
-Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
-
+Data becomes more powerful when you share it with others! That’s because people can use  data only if they can access it. So, we’ll use HTML and CSS to create a dashboard featuring the Latitude vs. X analysis of weather.
 
 ## Instructions 
 
@@ -24,7 +23,7 @@ The website must consist of seven pages in total, including:
   * Links to each visualizations page. There should be a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
 
   Page#1/7 
-    ![LanidinImage](assets/images/Landing.png)
+    ![LanidinImage](/assets/images/Landing.png)
 
 * Four [visualization pages](https://vedranagatech.github.io/Web-Design-Challenge/visualizations/wind.html), stored in the `visualizations` folder, each with the following elements:
 
@@ -35,7 +34,8 @@ The website must consist of seven pages in total, including:
   * A paragraph describing the plot and its significance.
 
   Sample:
-    ![TempImage](assets/images/temp.png)
+  
+    ![TempImage](/assets/images/temp.png)
 
 
 * A ["Comparisons" page](https://vedranagatech.github.io/Web-Design-Challenge/comparison.html) that does the following:
@@ -47,7 +47,8 @@ The website must consist of seven pages in total, including:
     * The grid must be two visualizations across medium and large screens, and it must be one visualization across on extra-small or small screens.
 
   Sample:
-      ![compImage](assets/images/cmp.png)
+  
+      ![compImage](/assets/images/cmp.png)
 
 * A ["Data" page](https://vedranagatech.github.io/Web-Design-Challenge/data.html) that displays a responsive table containing the data used in the visualizations.
 
@@ -55,7 +56,8 @@ The website must consist of seven pages in total, including:
   * The data must come from exporting the `.csv` file as HTML or by converting it to HTML. .
 
     Sample:
-      ![dataImage](assets/images/data.png)
+    
+      ![dataImage](/assets/images/data.png)
 
 At the top of every page, the website must have a navigation menu with the following elements:
 
@@ -66,7 +68,8 @@ At the top of every page, the website must have a navigation menu with the follo
 
 
     Sample:
-  ![menuImage](assets/images/menu.png)
+    
+  ![menuImage](/assets/images/menu.png)
   
 Finally, the website must be deployed to GitHub Pages.
 
